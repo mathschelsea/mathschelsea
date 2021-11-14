@@ -19,3 +19,7 @@ Hi, I'm Chelsea. A lover of all things technical, I spend my day as a Data Scien
 <a href="https://www.etsy.com/shop/MathsChelsea">
 <img src="images/Etsy.png" width="50">
 </a>
+
+**Languages and Tools:**
+
+<img src="images/Python.png" width="50"> <img src="images/VSCode.png" width="50"> <img src="images/JupyterNB.png" width="50"> <img src="images/GitHub.png" width="50"> <img src="images/SAS.png" width="50"> <img src="images/aws.png" width="50"> <img src="images/AffinityDesigner.png" width="50"> <img src="images/Photoshop.png" width="50">
