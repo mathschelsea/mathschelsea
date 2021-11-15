@@ -19,6 +19,9 @@ Hi, I'm Chelsea. A lover of all things technical, I spend my day as a Data Scien
 <a href="https://www.etsy.com/shop/MathsChelsea">
 <img src="images/Etsy.png" width="50">
 </a>
+<a href="https://mathschelsea.github.io/Blogging/">
+<img src="images/Blog.png" width="50">
+</a>
 
 **Languages and Tools:**
 
