@@ -16,7 +16,3 @@ Hey, I'm Chelsea. A lover of geeky things, I spend my day as a Data Scientist bu
 <a href="https://www.linkedin.com/in/chelseaetucker">
 <img src="images/LinkedIn.png" width="50">
 </a>
-
-**Languages and Tools:**
-
-<img src="images/Python.png" width="50"> <img src="images/VSCode.png" width="50"> <img src="images/JupyterNB.png" width="50"> <img src="images/GitHub.png" width="50"> <img src="images/SAS.png" width="50"> <img src="images/aws.png" width="50"> <img src="images/AffinityDesigner.png" width="50"> <img src="images/Photoshop.png" width="50">
